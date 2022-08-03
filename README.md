@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego Velessaca Orellana @diegovo
 - 👀 I’m interested in Software Development, Internet Of Things, Artificial Intelligence, Computer Sciences.
-- 🌱 I’m currently learning Javascript, React, Node, Express, Pythn, Django.
+- 🌱 I’m currently learning Javascript, React, Node, Express, Python, Django.
 - 💞️ I’m looking to collaborate on open software/harware projects.
 - 📫 How to reach me: 📧diegovo@outlook.com - 📍Cuenca-Ecuador - 📱+593983853525 
 
