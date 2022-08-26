@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego Velessaca Orellana @diegovo
+- 👋 Hi, I’m Diego Velesaca Orellana @diegovo
 - 👀 I’m interested in Software Development, Internet Of Things, Artificial Intelligence, Computer Sciences.
 - 🌱 I’m currently learning Javascript, React, Node, Express, Python, Django.
 - 💞️ I’m looking to collaborate on open software/harware projects.
