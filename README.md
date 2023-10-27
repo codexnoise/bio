@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego Velesaca Orellana @noisecodex
+- 👋 Hi, I’m Diego Velesaca Orellana @codexnoise
 - 👀 I’m interested in Software Development, Internet Of Things, Artificial Intelligence, Computer Sciences.
 - 🌱 I’m currently learning Javascript, React, Node, Express, Python, Django.
 
