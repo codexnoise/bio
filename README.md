@@ -1,51 +1,57 @@
-# 👋 Hola, soy Diego Velesaca Orellana (codexnoise)
+# 👋 Hola, soy Diego Velesaca Orellana (@codexnoise)
 
-### 🚀 Full Stack Developer | IoT & AI Enthusiast | Computer Science Student
+### 🚀 Full Stack & Mobile Developer | Software Architecture Student
 
-Soy un apasionado por la tecnología con base en **Cuenca, Ecuador**. Mi enfoque principal es construir soluciones robustas que conecten el mundo físico con el digital, especializándome en el desarrollo de software y la integración de hardware.
+Soy un **Ingeniero de Software** apasionado por crear soluciones tecnológicas creativas, innovadoras y eficientes[cite: 3, 28]. [cite_start]Mi enfoque actual se centra en el desarrollo de aplicaciones móviles de alto impacto y sistemas web robustos, aplicando siempre **código limpio**, buenas prácticas y pensamiento crítico[cite: 28].
+
+Actualmente, me desempeño como **FullStack Developer (Mobile-Oriented)** en el sector **Fintech**, desarrollando aplicaciones financieras con Flutter y microservicios en Node.js.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Mi Stack Tecnológico
 
-**Frontend & Backend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**📱 Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**💻 Frontend & Web**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**⚙️ Backend & Infrastructure**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Áreas de Especialización**
-* **IoT & Hardware:** Desarrollo de soluciones embebidas y conectividad.
-* **Inteligencia Artificial:** Implementación de modelos y lógica de datos.
-* **Arquitectura de Software:** Diseño de sistemas escalables y eficientes.
+---
+
+### 📈 Trayectoria y Formación
+* **Diplomado en Arquitectura de Software (En curso):** Universidad Autónoma de Chile.
+* **Experiencia Fintech:** Desarrollo de apps móviles y microservicios para bancos y cooperativas[cite: 31].
+* **Experiencia ERP:** Desarrollo de soluciones empresariales escalables con PHP, React y AWS[cite: 37, 38, 39].
+* **Scrum Master Certified:** Implementación de metodologías ágiles para la gestión eficiente de proyectos.
 
 ---
 
 ### 🌱 Actualmente estoy...
-* 🔭 Perfeccionando mis habilidades en el stack **MERN** y **Django**.
-* ⚡ Explorando nuevas fronteras en la intersección de la **IA** y el **Internet de las Cosas**.
-* 🤝 Abierto a colaborar en proyectos de **Software de Código Abierto (Open Source)** y hardware experimental.
+* 🎓 Profundizando en **Arquitectura de Software** para diseñar sistemas más escalables.
+* 🚀 Perfeccionando el desarrollo mobile con **Flutter** y la optimización de APIs con **Node y FastAPI**[cite: 11, 32, 34].
+* 🌐 Contribuyendo a la comunidad técnica como traductor en **freeCodeCamp**.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codexnoise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codexnoise&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 ¿Cómo contactarme?
-
-* 📧 **Email:** [diegovo@outlook.com](mailto:diegovo@outlook.com)
-* 📍 **Ubicación:** Cuenca, Ecuador
-* 📱 **WhatsApp:** [+593 98 385 3525](https://wa.me/593983853525)
-* 💼 **LinkedIn:** [linkedin.com/in/diego-velesaca](https://www.linkedin.com/in/diegovo/) *(Asegúrate de que este link sea el correcto)*
+### 📫 Conectemos
+* 💼 **LinkedIn:** [linkedin.com/in/diegovo](https://www.linkedin.com/in/diegovo/)
+* 📧 **Email:** [diegovo@outlook.com](mailto:diegovo@outlook.com) [cite: 4]
+* 📍 **Ubicación:** Cuenca, Ecuador [cite: 5]
 
 ---
 <p align="center">
-  <em>"Transformando ideas en código y circuitos."</em>
+  <em>"Transformando desafíos en código eficiente y experiencias móviles excepcionales."</em>
 </p>
